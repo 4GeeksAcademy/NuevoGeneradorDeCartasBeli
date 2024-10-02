@@ -2,6 +2,7 @@
 
 .pinta {
   font-size: 100px;
+  margin-top: -35px;
 }
 
 .value {
@@ -16,4 +17,9 @@
 /*  */
 #pinta {
   text-align: left;
+}
+
+.palo {
+  font-size: 100px;
+  margin-bottom: -20px;
 }
