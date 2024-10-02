@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.pinta {
+  font-size: 100px;
+}
+
+.value {
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  font-size: 100px;
+  width: 250px;
+  padding: 20px;
+  position: relative;
+}
